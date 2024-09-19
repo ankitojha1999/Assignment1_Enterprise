@@ -21,7 +21,7 @@ An AI-powered web application for identifying plants from images.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ankitojha1999/Data-Mining-AI-Pair.git
+  git clone https://github.com/ankitojha1999/Assignment1_Enterprise.git
    ```
 
 2. Install dependencies:
